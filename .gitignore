@@ -1,0 +1,17 @@
+/target
+/dist
+
+# 构建中间产物
+*.pdb
+*.exp
+*.lib
+*.d
+*.obj
+
+# 运行时产物
+*.log
+capture*.bmp
+
+# Python
+__pycache__/
+*.pyc
